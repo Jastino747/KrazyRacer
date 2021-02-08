@@ -1,0 +1,13 @@
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\bin\Debug\Krazy Racer.exe.config
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\bin\Debug\Krazy Racer.exe
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\bin\Debug\Krazy Racer.pdb
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy Racer.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy_Racer.FormRace.resources
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy_Racer.Properties.Resources.resources
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy Racer.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy Racer.exe
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy Racer.pdb
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\bin\Debug\Resources\loopMusic.mp3
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\obj\Debug\Krazy Racer.csproj.ResolveComReference.cache
+C:\Users\Jason\Desktop\JasonAJ VS Data\Custom Programs\Krazy Racer\Krazy Racer\bin\Debug\Resources\RCPass.wav
