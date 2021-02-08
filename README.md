@@ -1,5 +1,4 @@
 # KrazyRacer
-A very first "Windows Form App Game" based on C# programming language that I made for my first experience.
 A simple endless (well, not really endless to be honest) game, where you drive as a white car, and you must not touch the other cars at all. 
 The longer you survive, the more points you will got (maxed at 1000 points at max level).
 
