@@ -9,4 +9,4 @@ Image sprites are from "SNES Top Gear", while the background music was a remaste
 Take a peek at the "Krazy Racer" folder, for the project's source code.
 If you want to test the result only, simply run the .exe file inside the "0. Output" folder, and have fun :)
 
-Created at: 22 oct 2017
+Created at: 22 Oct 2017
